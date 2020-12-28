@@ -1,2 +1,2 @@
 abcdef
-null
+ghigk
